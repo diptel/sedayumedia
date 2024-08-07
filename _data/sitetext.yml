@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: SEDAYU MEDIA
-    text: Internetan Dirumah Tanpa mikir Kuota Abis 
+    title: Internetan Dirumah Tanpa mikir Kuota Abis 
+    text: SEDAYU MEDIA
     button: DM SEKARANG
     buttonlink: "#services"
 
