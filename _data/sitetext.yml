@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: SEDAYU MEDIA!
+    title: SEDAYU MEDIA
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
