@@ -1,11 +1,11 @@
 ---
-title: Project Name
+title: Pilih paket Corporated
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
+  title: Corporated
   subtitle: Identity
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
