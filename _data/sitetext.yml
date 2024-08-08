@@ -91,6 +91,9 @@ en: &DEFAULT_EN
       - title: "Creative Market"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/zamzamcell brondong.JPG
+      - title: "Wijaya"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/TokoWijayaPakabu.JPG
 
   team:
     title: "OUR AMAZING TEAM"
