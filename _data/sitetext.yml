@@ -35,7 +35,7 @@ en: &DEFAULT_EN
     title: "PILIH PAKET WIFI SESUKA MU..!!"
     text: "Bebaskan expresimu dengan internet tanpa batas ...!."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Tutup"
 
   timeline:
     title: "Paket Ngegamers"
