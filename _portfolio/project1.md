@@ -1,6 +1,6 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Pilihan Paket keluarga
+subtitle: Pilih sesukamu sesuai kebutuhanmu.
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
