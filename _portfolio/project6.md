@@ -1,11 +1,11 @@
 ---
 title: Pilih paket ReastArea.
-subtitle: Paet untuk keperluan publik reast area .
+subtitle: Paet untuk keperluan publik reast area 
 image: assets/img/portfolio/06-full.jpg
 alt: 
 
 caption:
-  title: Paket ReastArea.
+  title: Paket ReastArea
   subtitle: Photography
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
