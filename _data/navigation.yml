@@ -23,8 +23,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Login Router"
+      url: http://192.168.1.1
 en-US:
   <<: *DEFAULT_EN
 en-CA:
