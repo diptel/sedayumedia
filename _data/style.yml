@@ -1,7 +1,7 @@
 #Color Customization
-highlight: "#54bfff"
+highlight: "#fff"
 white: "#FF0000"
-black: "#fffff"
+black: "#fff"
 
 #Image Customization
 header-image: "../img/headerpromosedayumedia.png"
