@@ -5,7 +5,7 @@ image: assets/img/portfolio/06-full.jpg
 alt: 
 
 caption:
-  title: ReastArea paket
+  title: Paket ReastArea 
   subtitle: Photography
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
