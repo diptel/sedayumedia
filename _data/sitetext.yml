@@ -94,6 +94,12 @@ en: &DEFAULT_EN
       - title: "Wijaya"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/TokoWijayaPakabu.JPG
+      - xtitle: "Aliman bersinergi"
+        xurl: https://github.com/raviriley/agency-jekyll-theme
+        xlogo: assets/img/clients/aliman bersinergi.JPG
+      - xtitle: "Tapas 3 aliman"
+        xurl: https://github.com/raviriley/agency-jekyll-theme
+        xlogo: assets/img/clients/aliman bersinergi.JPG
 
   team:
     title: "OUR AMAZING TEAM"
