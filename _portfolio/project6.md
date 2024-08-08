@@ -14,5 +14,5 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 {:.list-inline}
 - Date: October 2019
 - Client: Window
-- Category: Photography
+- Category: Photographey
 
