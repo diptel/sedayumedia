@@ -1,6 +1,6 @@
 ---
 title: Pilih paket ReastArea
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: Paet untuk keperluan publik reast area .
 image: assets/img/portfolio/06-full.jpg
 alt: 
 
