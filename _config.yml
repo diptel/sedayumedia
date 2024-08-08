@@ -18,7 +18,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : SEDAYU MEDIA
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : hello@diptel.id #this is also the email contact forms will go to
 description: "Internetan di rumah tanpa mikir kuota habis , untuk apapun keperluannya Game , streaming, kerja dll"
 author     : Shofiyudin
 # logo:     #optional, defaults to site title
