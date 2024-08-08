@@ -87,10 +87,10 @@ en: &DEFAULT_EN
         logo: https://lh3.googleusercontent.com/p/AF1QipNoggBPcstwURQ_kPCS7RYyaeQPIazoAVEdn6q3=s680-w680-h510
       - title: "themeforest"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
+        logo: https://scontent.fsub29-1.fna.fbcdn.net/v/t39.30808-6/324187747_920014339370680_2574075184744463338_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=7DUL5ws7RKcQ7kNvgEnv7V4&_nc_ht=scontent.fsub29-1.fna&oh=00_AYDqJGAXHFnXzchizJ5x-IruXTOl_gd1rscwCSs92TYFWw&oe=66BAD2DA
       - title: "Creative Market"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        logo: assets/img/clients/zamzamcell brondong.JPG
 
   team:
     title: "OUR AMAZING TEAM"
