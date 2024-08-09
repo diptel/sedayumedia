@@ -32,7 +32,7 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "PILIH PAKET WIFI SESUKA MU..!!"
+    title: "PILIH PAKET WIFI SESUKA MU...!!"
     text: "Bebaskan expresimu dengan internet tanpa batas ...!"
     section: portfolio
     closebutton: "Tutup"
