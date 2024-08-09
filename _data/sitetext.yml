@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "PILIH PAKET WIFI SESUKA MU..!!"
-    text: "Bebaskan expresimu dengan internet tanpa batas ...!."
+    text: "Bebaskan expresimu dengan internet tanpa batas ...!"
     section: portfolio
     closebutton: "Tutup"
 
