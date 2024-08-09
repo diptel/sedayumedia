@@ -79,27 +79,19 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
+      - title: "Diptel"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: https://scontent.fsub29-1.fna.fbcdn.net/v/t39.30808-6/272142778_143772741400308_261982326708389273_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=VnyzbPxCV3gQ7kNvgGgjg-2&_nc_ht=scontent.fsub29-1.fna&oh=00_AYDD6uCIB6A8Vyh9GK87TNP0kxtTSPv4MglkLmqAgFWdlg&oe=66BABA89
+        logo: assets/img/clients/diptelkotak biru.png
       - title: "designmodo"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: https://lh3.googleusercontent.com/p/AF1QipNoggBPcstwURQ_kPCS7RYyaeQPIazoAVEdn6q3=s680-w680-h510
-      - title: "themeforest"
+        logo: assets/img/clients/LogoBiznetgio.jpg
+      - title: "Ammasus"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: https://scontent.fsub29-1.fna.fbcdn.net/v/t39.30808-6/324187747_920014339370680_2574075184744463338_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=7DUL5ws7RKcQ7kNvgEnv7V4&_nc_ht=scontent.fsub29-1.fna&oh=00_AYDqJGAXHFnXzchizJ5x-IruXTOl_gd1rscwCSs92TYFWw&oe=66BAD2DA
       - title: "Creative Market"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/zamzamcell brondong.JPG
-      - title: "Wijaya"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/TokoWijayaPakabu.JPG
-      - xtitle: "Aliman bersinergi"
-        xurl: https://github.com/raviriley/agency-jekyll-theme
-        xlogo: assets/img/clients/aliman bersinergi.JPG
-      - xtitle: "Tapas 3 aliman"
-        xurl: https://github.com/raviriley/agency-jekyll-theme
-        xlogo: assets/img/clients/aliman bersinergi.JPG
+        logo: assets/img/clients/LogoPdm.png
+
 
   team:
     title: "OUR AMAZING TEAM"
