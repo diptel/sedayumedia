@@ -80,16 +80,16 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Diptel"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://diptel.id/internet
         logo: assets/img/clients/diptelkotak biru.png
       - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: #
         logo: assets/img/clients/LogoBiznetgio.jpg
       - title: "Ammasus"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://linktr.ee/ammasus
         logo: https://scontent.fsub29-1.fna.fbcdn.net/v/t39.30808-6/324187747_920014339370680_2574075184744463338_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=7DUL5ws7RKcQ7kNvgEnv7V4&_nc_ht=scontent.fsub29-1.fna&oh=00_AYDqJGAXHFnXzchizJ5x-IruXTOl_gd1rscwCSs92TYFWw&oe=66BAD2DA
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "PDM"
+        url: #
         logo: assets/img/clients/LogoPdm.png
 
 
